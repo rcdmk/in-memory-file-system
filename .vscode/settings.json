@@ -1,0 +1,10 @@
+{
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "editor.formatOnSave": true,
+    "[scala]": {
+        "editor.tabSize": 2,
+        "editor.detectIndentation": true
+    }
+}
